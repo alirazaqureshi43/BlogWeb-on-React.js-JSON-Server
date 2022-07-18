@@ -1,0 +1,34 @@
+{
+  "blogList": [
+    {
+      "id": 1,
+      "title": "Best Laptop For Autodesk",
+      "cover": "/assets/images/Autodesk.jpg",
+      "description": "When it comes to weight and portability, some people wont sacrifice anything for those two. Here, we’ll look at the best lightweight and portable laptops you can buy. Several reasons might exist for you to prefer a laptop that is not heavy. You can prefer it since you are constantly on the move from class to class, a regular traveler, and might prefer a light machine that wont weigh you down."
+    },
+    {
+      "id": 2,
+      "title": "Best Laptop For AutoCAD",
+      "cover": "/assets/images/AutoCad.jpg",
+      "description": "When it comes to weight and portability, some people wont sacrifice anything for those two. Here, we’ll look at the best lightweight and portable laptops you can buy. Several reasons might exist for you to prefer a laptop that is not heavy. You can prefer it since you are constantly on the move from class to class, a regular traveler, and might prefer a light machine that wont weigh you down."
+    },
+    {
+      "id": 3,
+      "title": "Best Laptop For Ableton",
+      "cover": "/assets/images/Ableton.jpg",
+      "description": "When it comes to weight and portability, some people wont sacrifice anything for those two. Here, we’ll look at the best lightweight and portable laptops you can buy. Several reasons might exist for you to prefer a laptop that is not heavy. You can prefer it since you are constantly on the move from class to class, a regular traveler, and might prefer a light machine that wont weigh you down."
+    },
+    {
+      "id": 4,
+      "title": "Best Laptop For Acid Pro",
+      "cover": "/assets/images/AcidPro.jpg",
+      "description": "When it comes to weight and portability, some people wont sacrifice anything for those two. Here, we’ll look at the best lightweight and portable laptops you can buy. Several reasons might exist for you to prefer a laptop that is not heavy. You can prefer it since you are constantly on the move from class to class, a regular traveler, and might prefer a light machine that wont weigh you down."
+    },
+    {
+      "id": 5,
+      "title": "Best Laptop For Audacity",
+      "cover": "/assets/images/Audacity.jpg",
+      "description": "When it comes to weight and portability, some people wont sacrifice anything for those two. Here, we’ll look at the best lightweight and portable laptops you can buy. Several reasons might exist for you to prefer a laptop that is not heavy. You can prefer it since you are constantly on the move from class to class, a regular traveler, and might prefer a light machine that wont weigh you down."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.cover{
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+    margin-left: 12rem;
+}
+
+.blog-desc{
+    margin: 20px;
+    text-align: justify;
+    background-color:white;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.blog-post{
+    padding: 20px;
+}
+
+.blog-name{
+    padding: 5px;
+    margin-left: 13rem;
+    font-size: 4rem;
+}

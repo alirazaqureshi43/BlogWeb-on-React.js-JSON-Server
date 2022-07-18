@@ -1,0 +1,35 @@
+body{
+    background-color:#202142;
+}
+.blog-cover{
+    width: 25%;
+    height: 25%;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+}
+.inline-style{
+    display: flex;
+}
+.inline-style p{
+    margin: 20px;
+    text-align: justify;
+    background-color: white ;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.blog-post{
+    padding: 20px;
+}
+
+.blog-title{
+    padding: 5px;
+}
+h1{
+    color: white;
+}
+.navbar a{
+    color: #ff6a95;
+}
